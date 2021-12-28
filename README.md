@@ -2,6 +2,7 @@
 Kudos : flutter_pomodoro created by using pomodoro technique :-]
 
 A new Flutter project for lazy-ness person. "like me"
+### ```work in progress ^^```
 
 #####  ``` Flutter Desktop, Web, Mobile :>```
 ![IMG](./docs/pomodoro.png)
