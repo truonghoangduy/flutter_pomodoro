@@ -3,6 +3,9 @@ Kudos : flutter_pomodoro created by using pomodoro technique :-]
 
 A new Flutter project for lazy-ness person. "like me"
 
+#####  ``` Flutter Desktop, Web, Mobile :>```
+![IMG](./docs/pomodoro.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application that follows the
